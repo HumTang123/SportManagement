@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/cx"
+        title="晨曦"
+        activeColor="#F58322"
+        barColorWhenSelected="#ffffff" />
+
+    <tab
+        id="@+id/zh"
+        activeColor="#F58322"
+        title="朝晖"
+        barColorWhenSelected="#ffffff" />
+
+    <tab
+        id="@+id/gr"
+        activeColor="#F58322"
+        title="个人"
+        barColorWhenSelected="#ffffff" />\
+
+</tabs>
